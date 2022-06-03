@@ -33,7 +33,7 @@ section .container .circle span {
 section .container .circle span::before {
     content: '';
     position: absolute;
-    right: 0;
+    right: 0;top: calc(50% - 7.5px);
     width: 15px;
     height: 15px;
     background: #00ff0a;
