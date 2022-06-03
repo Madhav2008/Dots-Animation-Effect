@@ -31,5 +31,5 @@ section .container .circle span {
 }
 
 section .container .circle span::before {
-    content: '';
+    content: '';position: absolute;
 }
