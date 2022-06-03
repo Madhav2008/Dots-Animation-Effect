@@ -75,6 +75,7 @@ section .container .circle:nth-child(2) span::before {
     0% {
         filter: hue-rotate(0deg);
     }
+
     0% {
         filter: hue-rotate(0deg);
     }
