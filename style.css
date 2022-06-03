@@ -44,5 +44,5 @@ section .container .circle span::before {
         0 0 20px #00ff0a,
         0 0 40px #00ff0a,
         0 0 10px #00ff0a,
-        0 0 10px #00ff0a;
+        0 0 100px #00ff0a;
 }
