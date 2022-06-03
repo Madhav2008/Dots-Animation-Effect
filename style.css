@@ -69,4 +69,6 @@ section .container .circle:nth-child(2) span::before {
     100% {
         transform: scale(0.1);
     }
-}@keyframes animateColor {}
+}
+
+@keyframes animateColor {}
