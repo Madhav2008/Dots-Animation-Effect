@@ -35,5 +35,6 @@ section .container .circle span::before {
     position: absolute;
     width: 15px;
     height: 15px;
-    background: #00ff0a;border-radius: 50%;
+    background: #00ff0a;
+    border-radius: 50%;
 }
