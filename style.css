@@ -71,4 +71,4 @@ section .container .circle:nth-child(2) span::before {
     }
 }
 
-@keyframes animateColor {0%{}}
+@keyframes animateColor {0% {}}
