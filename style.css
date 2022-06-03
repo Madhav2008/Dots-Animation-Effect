@@ -20,7 +20,7 @@ section .container .circle {
     position: relative;
     width: 150px;
     height: 150px;
-    margin: 0 -10px;
+    margin: 0 -7.5px;
 }
 
 section .container .circle span {
