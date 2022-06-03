@@ -25,5 +25,5 @@ section .container .circle {
 section .container .circle span {
     position: absolute;
     top: 0;
-    left: 0;
+    left: 0;width: 100%;
 }
