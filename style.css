@@ -40,5 +40,5 @@ section .container .circle span::before {
     height: 15px;
     background: #00ff0a;
     border-radius: 50%;
-    box-shadow: 0 0 10px #00ff0a;
+    box-shadow: 0 0 10px #00ff0a,0 0 10px #00ff0a;
 }
