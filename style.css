@@ -49,7 +49,7 @@ section .container .circle span::before {
     transform: scale(0.1);
     animation: animate 4s linear infinite;
     animation-delay: calc(0.1s * var(--i));
-}section .container .circle:nth-child(2)
+}section .container .circle:nth-child(2){}
 
 @keyframes animate {
     0% {
