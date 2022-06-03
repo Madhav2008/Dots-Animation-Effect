@@ -22,4 +22,4 @@ section .container .circle {
     height: 150px;
 }
 
-section .container .circle span {}
+section .container .circle span {position: absolute;}
