@@ -52,6 +52,6 @@ section .container .circle span::before {
 
 @keyframes animate {
     0% {
-        transform: translate();
+        transform: scale(1);
     }
 }
