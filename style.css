@@ -72,5 +72,7 @@ section .container .circle:nth-child(2) span::before {
 }
 
 @keyframes animateColor {
-    0% {filter: hue-rotate(0deg);}
+    0% {
+        filter: hue-rotate(0deg);
+    }
 }
