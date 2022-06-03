@@ -42,7 +42,7 @@ section .container .circle span::before {
     border-radius: 50%;
     box-shadow: 0 0 10px #00ff0a,
         0 0 20px #00ff0a,
-        0 0 10px #00ff0a,
+        0 0 40px #00ff0a,
         0 0 10px #00ff0a,
         0 0 10px #00ff0a;
 }
