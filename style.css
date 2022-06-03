@@ -51,7 +51,7 @@ section .container .circle span::before {
     animation-delay: calc(0.1s * var(--i));
 }
 
-section .container .circle:nth-child(2) {}
+section .container .circle:nth-child(2) {transform: rotate(-180deg);}
 
 @keyframes animate {
     0% {
