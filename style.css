@@ -55,7 +55,7 @@ section .container .circle span::before {
         transform: scale(1);
     }
 
-    0% {
+    50% {
         transform: scale(1);
     }
 }
