@@ -12,4 +12,4 @@ section {
     background: #042104;
 }
 
-section .container {}
+section .container {display: flex;}
